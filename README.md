@@ -1,2 +1,1 @@
-# colorization.js
-Creates images from given matrices with decided color ramp. Inverse distance weighting included for demo purposes.
+Class comments says all. Does idw interpolation yet. Mainly works for creating images from matrices. 
