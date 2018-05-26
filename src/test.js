@@ -3,11 +3,11 @@ var Test = function()
   this.idwTest = function()
   {
     var colorManager = new ColorManager(ColorManagerTypes.Continuous);
-    var widthPx = document.getElementById("widthPx").value || 1500; 
-    var heightPx = document.getElementById("heightPx").value || 1500; 
-    var searchRadius = document.getElementById("searchRadius").value || 99999;
-    var power = document.getElementById("power").value || 3;
-    var numberOfControlPoints = document.getElementById("controlPoints").value || 100;
+    var widthPx = document.getElementById("WidthPx").value || 1500; 
+    var heightPx = document.getElementById("HeightPx").value || 1500; 
+    var searchRadius = document.getElementById("SearchRadius").value || 99999;
+    var power = document.getElementById("Power").value || 3;
+    var numberOfControlPoints = document.getElementById("ControlPoints").value || 100;
     var controlPoints = [];
     // Creating randomize points.
     var minVal = 0;
