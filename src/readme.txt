@@ -1,4 +1,4 @@
-written by Önder ALTINTAÞ in 2016
+written by Ã–nder ALTINTAÅž in 2016
 web worker added in 2019
 
 Q: Why no prototyping?
